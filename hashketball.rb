@@ -1,7 +1,6 @@
 require 'pry'
 # Write your code here!
 def game_hash
+  binding.pry
   {}
-  top_level do |keys|
-  end
 end
